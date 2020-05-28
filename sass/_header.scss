@@ -1,0 +1,9 @@
+header{
+    margin: 30px auto; 
+    max-width: 500px;
+    text-align: center;    
+    padding: 40px 40px 30px 40px;
+    @media (min-width: 700px){
+        padding: 0;
+    }
+}
